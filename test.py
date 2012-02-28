@@ -1,1 +1,2 @@
 print 'Ok'
+print 'yes'
