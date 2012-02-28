@@ -1,2 +1,1 @@
 print 'Ok'
-print 'yes'
